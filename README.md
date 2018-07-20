@@ -1,3 +1,3 @@
 # sudoku
 
-Sudoku Resolver
+Sudoku Solver.
